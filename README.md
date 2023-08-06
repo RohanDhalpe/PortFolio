@@ -1,4 +1,4 @@
-# React Developer Portfolio template
+# React Portfolio -Rohan Dhalpe
 #### Live Demo https://venerable-hotteok-b0e989.netlify.app/
 
 ## Follow Below instructions to add your deatils in the portfolio.
