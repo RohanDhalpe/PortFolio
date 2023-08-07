@@ -12,15 +12,15 @@
 
 
 
-### Ordered List page
+### Technology used page
 ![3](https://github.com/RohanDhalpe/PortFolio/blob/main/experience.png)
 
 
 
-### Order confirm page
+### Projects page
 ![4](https://github.com/RohanDhalpe/PortFolio/blob/main/portfolio.png)
 
-### Order confirm page
+### Contact page
 ![4](https://github.com/RohanDhalpe/PortFolio/blob/main/contact.png)
 
 
